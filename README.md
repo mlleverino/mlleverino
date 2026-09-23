@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! :) 
 
 My name is Maegan Lleverino and I'm a first year data science student at TCU, class of 20230. 
 
